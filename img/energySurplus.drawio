@@ -1,0 +1,244 @@
+<mxfile host="65bd71144e" scale="4" border="0" disableSvgWarning="true">
+    <diagram id="XdZJSNMWsS4ApphGwkuF" name="Page-1">
+        <mxGraphModel dx="1199" dy="997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="6" value="风速/风电发电量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="15" y="148" width="170" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="光照/光电发电量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="15" y="211" width="170" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;curved=1;" parent="1" edge="1">
+                    <mxGeometry width="100" relative="1" as="geometry">
+                        <mxPoint x="190" y="180" as="sourcePoint"/>
+                        <mxPoint x="630" y="180" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="250" y="150"/>
+                            <mxPoint x="400" y="200"/>
+                            <mxPoint x="430" y="140"/>
+                            <mxPoint x="460" y="200"/>
+                            <mxPoint x="560" y="190"/>
+                            <mxPoint x="580" y="160"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" parent="1" edge="1">
+                    <mxGeometry width="140" relative="1" as="geometry">
+                        <mxPoint x="200" y="480" as="sourcePoint"/>
+                        <mxPoint x="640" y="480" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="24小时" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="480" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="清洁能源发电量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="390" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;fillColor=#60a917;strokeColor=#2D7600;curved=1;" parent="1" edge="1">
+                    <mxGeometry width="100" relative="1" as="geometry">
+                        <mxPoint x="205" y="575" as="sourcePoint"/>
+                        <mxPoint x="640" y="595" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="240" y="580"/>
+                            <mxPoint x="300" y="630"/>
+                            <mxPoint x="350" y="550"/>
+                            <mxPoint x="380" y="600"/>
+                            <mxPoint x="510" y="610"/>
+                            <mxPoint x="570" y="495"/>
+                            <mxPoint x="590" y="565"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="整体能源需求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="430" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;curved=1;" parent="1" edge="1">
+                    <mxGeometry width="100" relative="1" as="geometry">
+                        <mxPoint x="190" y="430" as="sourcePoint"/>
+                        <mxPoint x="630" y="430" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="280" y="440"/>
+                            <mxPoint x="340" y="400"/>
+                            <mxPoint x="370" y="280"/>
+                            <mxPoint x="400" y="430"/>
+                            <mxPoint x="460" y="310"/>
+                            <mxPoint x="520" y="460"/>
+                            <mxPoint x="550" y="400"/>
+                            <mxPoint x="590" y="450"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=20;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="17" target="19" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="280" y="760"/>
+                            <mxPoint x="290" y="730"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=20;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="17" target="18" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="280" y="760"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="需求和供给的不匹配导致的清洁能源浪费，怎么办？" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="-10" y="730" width="260" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=20;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="18" target="26" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="需求侧" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="800" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=20;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="19" target="24" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="供给侧" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="710" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;b&gt;我用的电干净吗？&lt;br&gt;&lt;/b&gt;二氧化碳排放因子&lt;br&gt;kg·CO&lt;sub&gt;2&lt;/sub&gt;/kWh" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#2D7600;fillColor=#60a917;fontSize=20;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="525" width="180" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="建立大型储能设备，把清洁的电存下来" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="710" width="360" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="用电的人主动调节需求，将清洁的电用出去" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="800" width="400" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="如何用上更干净的电" style="whiteSpace=wrap;html=1;fontSize=30;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="10" width="320" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="&lt;font color=&quot;#ffffff&quot;&gt;个人&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fillColor=#59b4d9;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="960" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.enterprise;pointerEvents=1;" vertex="1" parent="1">
+                    <mxGeometry x="306.5" y="1010" width="30" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="1">
+                    <mxGeometry x="306.5" y="900" width="37" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="&lt;font color=&quot;#ffffff&quot;&gt;企业&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fillColor=#00bef2;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="295" y="1070" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="降低电费开支" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="980" width="170" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="参与到清洁能源使用中去，提高清洁能源利用率" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="920" width="450" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="我的&lt;b&gt;出租车公司&lt;/b&gt;有100辆电动车，我想知道什么时候可以让他们充电？" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="1120" width="350" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;curved=1;" edge="1" parent="1">
+                    <mxGeometry width="100" relative="1" as="geometry">
+                        <mxPoint x="190" y="430" as="sourcePoint"/>
+                        <mxPoint x="630" y="430" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="280" y="420"/>
+                            <mxPoint x="340" y="400"/>
+                            <mxPoint x="370" y="340"/>
+                            <mxPoint x="410" y="320"/>
+                            <mxPoint x="470" y="330"/>
+                            <mxPoint x="520" y="440"/>
+                            <mxPoint x="600" y="450"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="42" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="330" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
+                    <mxGeometry x="710" y="410" width="64" height="64" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
+                    <mxGeometry x="750" y="330" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;+&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=31;fontColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="710" y="360" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;=&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=31;fontColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry x="660" y="433" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="清洁能源要看天吃饭" style="whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="250" width="190" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="清洁的电力供给与电力需求&lt;br&gt;往往不平衡" style="whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                    <mxGeometry x="645" y="475" width="260" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="火力发电来补齐能源需求的缺口，电力的碳排放因子在一天内就会变化" style="whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                    <mxGeometry x="650" y="570" width="260" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAADcUlEQVR4nO2YW2sTQRTHT8ULeKO2mszGV30RxGJ3pfUbiMVLFf0QFbUV3I0WixdQfLJekMz4olUEv4IP7gaUPthWulstVSQzSREr0pm0aAu1KxsvbSZJczFNN5gfnIfdDeT/nznnzHAAatSoUeMPLa94g2byi5rJ+1VTfNUsMa1aYkg1xdWmaHIb+Jl9ljiomkJolnCzhfdNtSaPgR/RzORR1eJzucT/DZPP+85E68upgGbyibziF+2Er9JJNcUZaZVnm6OiU3suGve8mKzXTHFas/iMZOIK+AXVnGxPE2fxjnwmvcIG3+C6darFw6rFo5rFu73nrN0pfQeSUE20ZBoQUE2oljgrFfMgVMvKq554k89KBi5XTIQWFW2ayccLbZMFBG9+kdxaMQOqxRNlE2/yH96hVzHxZTbAKy6+DCk0pZliwDu4Kpo2NWr8zwRxrA1hNq4Q5q5YYDqNMB1FmD4JYnpi1zNnbcEGEKGJFRVPssYHROLt1WzA/RX0JvS4q/yfQiSPCb8TfPRpQwDHWxChtxFms5k1wip/opdKCCea5LRGmL4vqrB9YQKn7wTCseNQTSBM76QZIPTxwlfDbgPDHgfDcUuIadDtIdCdaxAeXLZxSQDHW9INsHcLX3UnUaL49NBtAbq9LIOrxgdfNqUXMk2W30Aq7PnlMNHQN7ZZ6kSiXCmUfSdypFPoYaIxiFlHqhW6mSOYXIQeJFqlTjRanqXpGaoHY/g0GPaMZCJz+tbjrlYwG1mUx5cK/RuF0LtSCvVBWdHtM5KBjOnb9vvxnVIhzgQibHde8ZHY3uVvo8bwFqkWMqZv3uGDCKVSO4wvZUIhtFm+2iBCxyDyek0R6tw6MJww6HYUdLs79SzT6TTkM+DhrZx8NUCYfUeE3QoStk+JjK/fdvfzxlAktl8h9F7GVQLT+VCEHipCPACE7XapUE9l/EZ3OiUDOadvCLPeUi9zCLPrxYnPnt+zYDhdYLxt/JU69tnf7xYbyD19c926Ukwgwm7kvU5n5dybAOjORBGtlBdyKqNI/JiCWSy/cDqmYHoY/onwyBEwnLkCzoAfoA8XfN3d0Tu2LkToSUToU4Wwj4jQbwqhUwpmb71Wmeo2xRXsEpwfOZA6pJZa+SLErwxet9HtC6Db/WDYX1PdRrcHUjnfNVqbvtWAKuMn4cJk6muVN9gAAAAASUVORK5CYII=;" vertex="1" parent="1">
+                    <mxGeometry x="645" y="140" width="48" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;需求侧的解决方法：&lt;br&gt;在电更干净的时候用电&lt;/span&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                    <mxGeometry x="5" y="860" width="230" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=20;fontColor=#FFFFFF;endWidth=30;endSize=10.89;width=33;fillColor=#d5e8d4;strokeColor=#82b366;startArrow=none;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="120" y="940" as="sourcePoint"/>
+                        <mxPoint x="270" y="1010" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="160" y="1000"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="55" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+                    <mxGeometry y="1160" width="41" height="78" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="我经营着一个电动汽车&lt;b&gt;充电站&lt;/b&gt;，我希望能根据碳排放因子预测自己来制定我的充电价格，鼓励大家多用清洁的电" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="1200" width="350" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="我的&lt;b&gt;数据中心&lt;/b&gt;有一批AI训练任务，我可以放到一天内任何时候，我想知道如何安排这些AI计算能减少我的碳排放？" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="1300" width="350" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=31;fontColor=#000000;fillColor=#008a00;strokeColor=#005700;endWidth=26.53061224489796;endSize=13.114285714285714;width=51.42857142857143;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="450" y="1280" as="sourcePoint"/>
+                        <mxPoint x="530" y="1280" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="60" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;使用碳排放预测工具来规碳排放&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="1220" width="310" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="我是&lt;b&gt;图书馆&lt;/b&gt;的管理员，我想让图书馆空调在早上用干净的电给图书馆提前降温，我该如何选择我的空调启动时间？" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="1400" width="350" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=30;fontColor=#000000;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="668.29" y="260" as="sourcePoint"/>
+                        <mxPoint x="668.29" y="320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="69" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
+                    <mxGeometry x="698" y="132" width="64" height="64" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;curved=1;" edge="1" parent="1">
+                    <mxGeometry width="100" relative="1" as="geometry">
+                        <mxPoint x="190" y="241" as="sourcePoint"/>
+                        <mxPoint x="630" y="241" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="270" y="240"/>
+                            <mxPoint x="410" y="180"/>
+                            <mxPoint x="560" y="250"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="71" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="188" width="64" height="64" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="借助预测，规划用电计划，降低碳排放和碳税" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="1040" width="450" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAABKElEQVR4nO2Y0QqCMBSG/5eY1Ps/SYlF1FW76HFOCCNClp7jznJz5wMh1M6/j023CRiGIYXCUT3UisgAoGfU2eo+tshY7Dxzfev72hta1UAmUhhkPVIYVHCPdAAuAE41i3QAfGjb7V8z+xj6AHAPv6FQz4d2eUZNlZn9O5QTLKnnuRKpQ2sauqoBGhIpIg7AM/z3BeAQOXdMrIfcInOha2RcqsQaEU6oRMZpSEhFJKEcGaclIRFZEzonoyrBFUkJjcmoS3BEkl6JP2qk1hOLSCSWZmzpxDlo7dmlPcHZY3dhGcNZyvQae/YsYzg3NBGpUiImcs/xIG4hcg1L8qokSt5YiTGR0qBWhtZgX+Pj2Nf4JZp5RqqBTKQwaG89QoUfi+xGxDAMfHgDHcgwU6ytu44AAAAASUVORK5CYII=;" vertex="1" parent="1">
+                    <mxGeometry x="645" y="1380" width="70" height="70" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
